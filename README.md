@@ -1,5 +1,5 @@
 ## Javier Sánchez Álvarez
-Estudiante de Desarrollo de Aplicaciones Web (DAW)
+Desarrollador WEB 
 
 💻 Tecnologías:
 - Java | JavaScript | HTML | CSS
